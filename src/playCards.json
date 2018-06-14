@@ -1,0 +1,77 @@
+[
+    {
+        "cardImage": "./images/aslaug.jpg",
+        "id": 1,
+        "name": "Aslaug"
+    },
+    {
+        "cardImage": "./images/astrid.jpg",
+        "id": 2,
+        "name": "Astrid"
+    },
+    {
+        "cardImage": "./images/athelstan.jpg",
+        "id": 3,
+        "name": "Athelstan"
+    },
+    {
+        "cardImage": "./images/bjorn.jpg",
+        "id": 4,
+        "name": "Bjorn"
+    },
+    {
+        "cardImage": "./images/ecbert.png",
+        "id": 5,
+        "name": "Ecbert"
+    },
+    {
+        "cardImage": "./images/floki.jpg",
+        "id": 6,
+        "name": "Floki"
+    },
+    {
+        "cardImage": "./images/gisla.jpg",
+        "id": 7,
+        "name": "Gisla"
+    },
+    {
+        "cardImage": "./images/harald.jpg",
+        "id": 8,
+        "name": "Harald"
+    },
+    {
+        "cardImage": "./images/ivar.jpg",
+        "id": 9,
+        "name": "Ivar"
+    },
+    {
+        "cardImage": "./images/lagertha.jpg",
+        "id": 10,
+        "name": "Lagertha"
+    },
+    {
+        "cardImage": "./images/ragnar.jpg",
+        "id": 11,
+        "name": "Ragnar"
+    },
+    {
+        "cardImage": "./images/rollo.jpg",
+        "id": 12,
+        "name": "Rollo"
+    },
+    {
+        "cardImage": "./images/siggy.png",
+        "id": 13,
+        "name": "Siggy"
+    },
+    {
+        "cardImage": "./images/sigurd.jpg",
+        "id": 14,
+        "name": "Sigurd"
+    },
+    {
+        "cardImage": "./images/ubbe.jpg",
+        "id": 15,
+        "name": "Ubbe"
+    }
+]
